@@ -18,7 +18,7 @@ Are you including classes or APIs, what about dictionaries? One of the worst thi
 
 •	Avoiding Hard Coding
 •	Trying to separate the big project into different small parts.
-o	This is a design principle for separating a computer program into distinct sections, such that each section addresses a separate concern.
+•	This is a design principle for separating a computer program into distinct sections, such that each section addresses a separate concern.
 
 ## Resources Found
 What are some resources you have found already or already have access to? (APIs, libraries, past assignments, etc)
@@ -29,5 +29,4 @@ I know a website about the food menu. It likes the system that I want to create,
 Setup a general timeline that includes research and development, and when you want to have certain aspects of the project done.
 
 Week 1 is dedicated to research, where you'll identify the necessary resources, set clear objectives, and outline your project's requirements. In Week 2, you'll begin development, starting with the core functionalities. This phase continues into Week 3, allowing for the refinement of these features and possibly starting on secondary functionalities. Reserve Week 4 for final development touches, thorough testing, and preparing documentation.
-![image](https://github.com/yijianeu/Final-Project_CS-5001_menu-system/assets/152763320/3886a251-d55a-47ea-b1f5-b87d07adf018)
 
