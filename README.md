@@ -24,9 +24,3 @@ Are you including classes or APIs, what about dictionaries? One of the worst thi
 What are some resources you have found already or already have access to? (APIs, libraries, past assignments, etc)
 
 I know a website about the food menu. It likes the system that I want to create, and I can try to follow the website as the template to create my own system. https://cook.yunyoujun.cn/
-
-## Timeline
-Setup a general timeline that includes research and development, and when you want to have certain aspects of the project done.
-
-Week 1 is dedicated to research, where you'll identify the necessary resources, set clear objectives, and outline your project's requirements. In Week 2, you'll begin development, starting with the core functionalities. This phase continues into Week 3, allowing for the refinement of these features and possibly starting on secondary functionalities. Reserve Week 4 for final development touches, thorough testing, and preparing documentation.
-
