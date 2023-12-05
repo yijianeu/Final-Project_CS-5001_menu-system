@@ -1,9 +1,9 @@
 # Final Project Report
 
-* Student Name:
-* Github Username:
-* Semester:
-* Course:
+* Student Name: Yijia Cao
+* Github Username: yijianeu
+* Semester: Fall 2023
+* Course: CS-5001
 
 
 
