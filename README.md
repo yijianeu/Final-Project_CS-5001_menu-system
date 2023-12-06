@@ -46,10 +46,17 @@ Sequential Selection:
 * Run the Program: Navigate to the directory containing your Python files in the command line, and then run the main Python script. 
 
 ## Code Review
-Go over key aspects of code in this section. Both link to the file, include snippets in this report (make sure to use the [coding blocks](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet#code)).  Grading wise, we are looking for that you understand your code and what you did. 
+* The 'get_user_preference' function is a crucial component of interacting with the user to obtain their preferences. It has a validation loop to ensure that the input from the user matches one of the options.
 
-### Major Challenges
-Key aspects could include pieces that your struggled on and/or pieces that you are proud of and want to show off.
+  <img width="805" alt="Screenshot 2023-12-06 at 1 21 14 PM" src="https://github.com/yijianeu/Final-Project_CS-5001_menu-system/assets/152763320/115953a4-ec4e-4d92-955a-4920992c830f">
+
+* The "suggest_menu" function dynamically creates a meal suggestion based on user input, demonstrating the use of data structures (like dictionaries) and control flow to match user preferences with available dishes.
+
+  <img width="749" alt="Screenshot 2023-12-06 at 1 22 27 PM" src="https://github.com/yijianeu/Final-Project_CS-5001_menu-system/assets/152763320/3dc6a42e-112f-4b83-8837-599b47405e3c">
+
+
+
+  
 
 
 ## Example Runs
