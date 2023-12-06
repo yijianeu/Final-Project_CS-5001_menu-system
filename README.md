@@ -54,7 +54,8 @@ Key aspects could include pieces that your struggled on and/or pieces that you a
 
 ## Example Runs
 Here is the example runs:
-![Uploading Screenshot 2023-12-06 at 1.05.15 PM.png…]()
+<img width="569" alt="Screenshot 2023-12-06 at 1 15 04 PM" src="https://github.com/yijianeu/Final-Project_CS-5001_menu-system/assets/152763320/fb98fd60-074f-41bb-a595-6b5379bee314">
+
 
 
 
