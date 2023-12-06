@@ -15,7 +15,6 @@ Creating a menu system to help decide daily meals is a practical and valuable to
 * Flavor preferences (spicy, savory, sweet, etc.).
 * Caloric intake based on individual dietary needs.
 
-The system could be designed to learn from past choices to better tailor future meal suggestions, making it an adaptive tool for meal planning. It would also be beneficial if the system could incorporate a grocery list feature to ensure all ingredients for the selected meals are noted, making shopping more efficient.
 
 
 ## Key Features
@@ -45,7 +44,7 @@ How did you test your code? What did you do to make sure your code was correct? 
 
 
 ## Missing Features / What's Next
-Focus on what you didn't get to do, and what you would do if you had more time, or things you would implement in the future. 
+The system could be designed to learn from past choices to better tailor future meal suggestions, making it an adaptive tool for meal planning. It would also be beneficial if the system could incorporate a grocery list feature to ensure all ingredients for the selected meals are noted, making shopping more efficient.
 
 ## Final Reflection
 Write at least a paragraph about your experience in this course. What did you learn? What do you need to do to learn more? Key takeaways? etc.
