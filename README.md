@@ -24,7 +24,17 @@ Creating a menu system to help decide daily meals is a practical and valuable to
 * The script is very flexible to accommodate a variety of cuisines and changing dietary trends because it uses predefined data sets (food_preferences and dishes_data), which make it easy to add new food categories or dishes to the system.
 
 ## Guide
-How do we run your project? What should we do to see it in action? - Note this isn't installing, this is actual use of the project.. If it is a website, you can point towards the gui, use screenshots, etc talking about features. 
+Here's a step-by-step breakdown of how the user would interact with the system:
+
+* Welcome Menu: When the system starts, it greets the user with a welcome message, inviting them to interact with the menu system.
+* Guided Choices: The user is guided through a series of choices. Each step narrows down the options, making it easy for the user to make decisions without feeling overwhelmed.
+* Sequential Selection:
+
+** Menu: The user starts by indicating they want a meal suggestion by typing 'menu'.
+** Meat: The system then prompts the user to select their preferred type of meat from the available options.
+** Cooking: Next, the user chooses their desired cooking style, further customizing the meal to their liking.
+** Flavor: The user selects their preferred flavor profile, adding another layer of personalization.
+** Calories: Finally, the user chooses a calorie range, allowing them to align the meal with their dietary goals.
 
 
 ## Installation Instructions
