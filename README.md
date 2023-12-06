@@ -80,7 +80,7 @@ Here is the example runs:
 * The Daily_Menu_test.py is the file about my test file to test this project
 
 ## Missing Features / What's Next
-The system could be designed to learn from past choices to better tailor future meal suggestions, making it an adaptive tool for meal planning. It would also be beneficial if the system could incorporate a grocery list feature to ensure all ingredients for the selected meals are noted, making shopping more efficient. Such a system's implementation could range from a simple app to a more complex AI-driven platform that could integrate with smart kitchen appliances for a seamless culinary experience. It would be a modern solution to the timeless question of "What should I eat today?
+The meal planning tool could be made adaptive by incorporating the system's ability to learn from previous selections and better customize meal recommendations in the future. To make shopping more effective, it would also be advantageous if the system could include a grocery list feature that would guarantee that all the ingredients for the meals that have been chosen are noted. The implementation of such a system could take the form of a straightforward app or a more intricate AI-driven platform that works in tandem with smart kitchen appliances to provide a seamless culinary experience. It would be a cutting-edge response to the age-old query, "What should I eat today?"
 
 ## Final Reflection
 Write at least a paragraph about your experience in this course. What did you learn? What do you need to do to learn more? Key takeaways? etc.
