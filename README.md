@@ -28,8 +28,8 @@ Here's a step-by-step breakdown of how the user would interact with the system:
 
 * Welcome Menu: When the system starts, it greets the user with a welcome message, inviting them to interact with the menu system.
 * Guided Choices: The user is guided through a series of choices. Each step narrows down the options, making it easy for the user to make decisions without feeling overwhelmed.
-* Sequential Selection:
-Menu: The user starts by indicating they want a meal suggestion by typing 'menu'.
+Sequential Selection:
+* Menu: The user starts by indicating they want a meal suggestion by typing 'menu'.
 * Meat: The system then prompts the user to select their preferred type of meat from the available options.
 * Cooking: Next, the user chooses their desired cooking style, further customizing the meal to their liking.
 * Flavor: The user selects their preferred flavor profile, adding another layer of personalization.
