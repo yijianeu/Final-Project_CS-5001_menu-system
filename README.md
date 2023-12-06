@@ -73,10 +73,11 @@ Here is the example runs:
 
 
 ## Testing
-How did you test your code? What did you do to make sure your code was correct? If you wrote unit tests, you can link to them here. If you did run tests, make sure you document them as text files, and include them in your submission. 
+* I wrote a series of unit tests to validate the functionality of each component of my system. The tests were specifically designed to cover key functions like 'get_user_preference', 'suggest_menu', and 'get_response'.
+* I ran each unit test to confirm that each part of my system was working as it should. This was essential to make sure every function performed as planned in a range of scenarios.
+* I asked different people to run the project on their systems. This was done to identify any potential weaknesses, usability issues, or bugs that might not have been evident during unit and integration testing.
 
-> _Make it easy for us to know you *ran the project* and *tested the project* before you submitted this report!_
-
+* The Daily_Menu_test.py is the file about my test file to test this project
 
 ## Missing Features / What's Next
 The system could be designed to learn from past choices to better tailor future meal suggestions, making it an adaptive tool for meal planning. It would also be beneficial if the system could incorporate a grocery list feature to ensure all ingredients for the selected meals are noted, making shopping more efficient. Such a system's implementation could range from a simple app to a more complex AI-driven platform that could integrate with smart kitchen appliances for a seamless culinary experience. It would be a modern solution to the timeless question of "What should I eat today?
