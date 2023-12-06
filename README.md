@@ -8,7 +8,14 @@
 
 
 ## Description 
-General overview of the project, what you did, why you did it, etc. 
+Creating a menu system to help decide daily meals is a practical and valuable tool. It would consider personal preferences, dietary restrictions, and nutritional goals to suggest meal options. This system could alleviate the daily stress of meal decision-making by offering tailored suggestions based on a set of criteria, including:
+
+Preferred types of meat or protein sources.
+Desired cooking styles (grilled, baked, steamed, etc.).
+Flavor preferences (spicy, savory, sweet, etc.).
+Caloric intake based on individual dietary needs.
+
+The system could be designed to learn from past choices to better tailor future meal suggestions, making it an adaptive tool for meal planning. It would also be beneficial if the system could incorporate a grocery list feature to ensure all ingredients for the selected meals are noted, making shopping more efficient.
 
 
 ## Key Features
