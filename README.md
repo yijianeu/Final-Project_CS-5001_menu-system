@@ -54,9 +54,13 @@ Sequential Selection:
 
   <img width="749" alt="Screenshot 2023-12-06 at 1 22 27 PM" src="https://github.com/yijianeu/Final-Project_CS-5001_menu-system/assets/152763320/3dc6a42e-112f-4b83-8837-599b47405e3c">
 
+* The 'get_response' function answers questions from users and, based on the input, starts the appropriate function or response. Moreover, it has a simple response system for common inputs like "help" and "exit."
 
+  <img width="759" alt="Screenshot 2023-12-06 at 1 23 48 PM" src="https://github.com/yijianeu/Final-Project_CS-5001_menu-system/assets/152763320/4e8c57ca-f4ad-48af-9cf8-9f42baf0278a">
 
-  
+* The main function keeps prompting the user until they decide to quit by using a while True loop.
+
+  <img width="761" alt="Screenshot 2023-12-06 at 1 24 32 PM" src="https://github.com/yijianeu/Final-Project_CS-5001_menu-system/assets/152763320/56af3719-38c5-493a-a0d0-cbd4056aeccc">
 
 
 ## Example Runs
