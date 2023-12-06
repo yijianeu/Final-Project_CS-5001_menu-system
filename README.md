@@ -44,7 +44,7 @@ How did you test your code? What did you do to make sure your code was correct? 
 
 
 ## Missing Features / What's Next
-The system could be designed to learn from past choices to better tailor future meal suggestions, making it an adaptive tool for meal planning. It would also be beneficial if the system could incorporate a grocery list feature to ensure all ingredients for the selected meals are noted, making shopping more efficient.
+The system could be designed to learn from past choices to better tailor future meal suggestions, making it an adaptive tool for meal planning. It would also be beneficial if the system could incorporate a grocery list feature to ensure all ingredients for the selected meals are noted, making shopping more efficient. Such a system's implementation could range from a simple app to a more complex AI-driven platform that could integrate with smart kitchen appliances for a seamless culinary experience. It would be a modern solution to the timeless question of "What should I eat today?
 
 ## Final Reflection
 Write at least a paragraph about your experience in this course. What did you learn? What do you need to do to learn more? Key takeaways? etc.
