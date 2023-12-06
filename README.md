@@ -41,7 +41,9 @@ Sequential Selection:
 
 
 ## Installation Instructions
-If we wanted to run this project locally, what would we need to do?  If we need to get API key's include that information, and also command line startup commands to execute the project. If you have a lot of dependencies, you can also include a requirements.txt file, but make sure to include that we need to run `pip install -r requirements.txt` or something similar.
+* Prepare the Python Files: Ensure you have the main Python file (Daily_menu.py) and the two data files (food_data.py and dishes_data.py) saved in the same directory.
+* API Keys: There is no API key required
+* Run the Program: Navigate to the directory containing your Python files in the command line, and then run the main Python script. 
 
 ## Code Review
 Go over key aspects of code in this section. Both link to the file, include snippets in this report (make sure to use the [coding blocks](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet#code)).  Grading wise, we are looking for that you understand your code and what you did. 
