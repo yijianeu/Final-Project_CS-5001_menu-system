@@ -18,7 +18,10 @@ Creating a menu system to help decide daily meals is a practical and valuable to
 
 
 ## Key Features
-Highlight some key features of this project that you want to show off/talk about/focus on. 
+* The system asks the user a series of questions concerning their preferences for different food categories, such as type of meat, cooking method, flavor profile, and number of calories. This enables the provision of a highly personalized meal plan that accommodates the dietary needs and preferences of every individual.
+* The 'get_user_preference' function allows the system to have a conversational interaction with the user by requesting their preferences and verifying the accuracy of their selections. User engagement is increased by this interaction, which resembles a casual conversation.
+* The system is easy to use even for non-techies, as it provides clear prompts and straightforward instructions.
+* The script is very flexible to accommodate a variety of cuisines and changing dietary trends because it uses predefined data sets (food_preferences and dishes_data), which make it easy to add new food categories or dishes to the system.
 
 ## Guide
 How do we run your project? What should we do to see it in action? - Note this isn't installing, this is actual use of the project.. If it is a website, you can point towards the gui, use screenshots, etc talking about features. 
