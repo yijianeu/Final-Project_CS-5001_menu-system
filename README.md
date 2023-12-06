@@ -54,27 +54,8 @@ Key aspects could include pieces that your struggled on and/or pieces that you a
 
 ## Example Runs
 Here is the example runs:
-Welcome to the Conversation and Menu Suggestion System!
-Ask me a question,like help,and exit or type 'menu' for a meal suggestion: menu
-What kind of meat do you prefer? (Options: chicken, beef, pork, tofu(vegan))
-pork
-What kind of cooking_style do you prefer? (Options: grilled, stir-fried, baked, steamed)
-grilled
-What kind of flavor do you prefer? (Options: salty, sweet, spicy, sour)
-salty
-What kind of calories do you prefer? (Options: 500, 700, 900, 1200)
-900
-We suggest Custom Dish with a salty flavor and around 900 calories.
-Ask me a question,like help,and exit or type 'menu' for a meal suggestion: menu
-What kind of meat do you prefer? (Options: chicken, beef, pork, tofu(vegan))
-pork
-What kind of cooking_style do you prefer? (Options: grilled, stir-fried, baked, steamed)
-grilled
-What kind of flavor do you prefer? (Options: salty, sweet, spicy, sour)
-salty
-What kind of calories do you prefer? (Options: 500, 700, 900, 1200)
-500
-We suggest Salty Grilled Pork with Herbs with a salty flavor and around 500 calories.
+![Uploading Screenshot 2023-12-06 at 1.05.15 PM.png…]()
+
 
 
 ## Testing
