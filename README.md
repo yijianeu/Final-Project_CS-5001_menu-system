@@ -37,6 +37,8 @@ Sequential Selection:
 * Flavor: The user selects their preferred flavor profile, adding another layer of personalization.
 * Calories: Finally, the user chooses a calorie range, allowing them to align the meal with their dietary goals.
 
+* Resulting Meal Suggestion: After the user has made all their selections, the system generates a meal suggestion that matches their preferences in meat, cooking style, flavor, and calories.
+
 
 ## Installation Instructions
 If we wanted to run this project locally, what would we need to do?  If we need to get API key's include that information, and also command line startup commands to execute the project. If you have a lot of dependencies, you can also include a requirements.txt file, but make sure to include that we need to run `pip install -r requirements.txt` or something similar.
